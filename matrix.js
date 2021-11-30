@@ -106,17 +106,3 @@ function m_mult(m1, m2) { //takes as inputs two matrixes and multiplies them
 
     return output;
 }
-
-//use this to test the functions:
-// let t1 = [
-//     [3, 4],
-//     [7, 2],
-//     [5, 9]
-// ];
-
-// let t2 = [
-//     [3, 1, 5],
-//     [6, 9, 7]
-// ];
-
-// console.log(m_mult(t1, t2));
