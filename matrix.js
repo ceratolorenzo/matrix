@@ -1,5 +1,6 @@
 //https://en.wikipedia.org/wiki/Matrix_addition
 //https://en.wikipedia.org/wiki/Matrix_multiplication
+//done by Lorenzo Cerato on November 2021
 
 function m_sum(m1, m2) { //takes as inputs two matrixes and sums them
     let output = [];
