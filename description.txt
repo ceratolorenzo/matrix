@@ -1,0 +1,4 @@
+This is a file which purpose is to describe the other one.
+
+The matrix.js document is a javascript file that allows you to do quicker matrix basic calculations (like sum, subtraction, direct sum or multiplication).
+Use this file in your next project to simplify your life!
